@@ -1,0 +1,27 @@
+baseURL = "http://robo.segfaults.net/"
+languageCode = "en-us"
+title = "RMC Robo Club"
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-08"
+  description = "The Royal Military College's Robotics Team"
+
+[menu]
+  [[menu.main]]
+    identifier = "Posts"
+    name = "Posts"
+    url = "/posts/"
+  [[menu.main]]
+    identifier = "Workshops"
+    name = "Workshops"
+    url = "/workshops/"
+  [[menu.main]]
+    identifier = "About"
+    name = "About Us"
+    url = "/about/"
+  [[menu.main]]
+    identifier = "Contact Us"
+    name = "Contact Us"
+    url = "/contact-us/"
+

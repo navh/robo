@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshops on RMC Robo Club</title>
+    <link>http://robo.segfaults.net/workshops/</link>
+    <description>Recent content in Workshops on RMC Robo Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2019 23:49:39 -0500</lastBuildDate>
+    
+	<atom:link href="http://robo.segfaults.net/workshops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Printing</title>
+      <link>http://robo.segfaults.net/workshops/3d-printing/</link>
+      <pubDate>Wed, 23 Jan 2019 23:49:39 -0500</pubDate>
+      
+      <guid>http://robo.segfaults.net/workshops/3d-printing/</guid>
+      <description>Captain Marasco will walk everybody through a simple example of CAD and at the end files will be submitted to be actually printed!
+When? 19:00 on Janurary 28th and 29th
+Where? Massey 7 perhaps?
+What will I need? Your own laptop with OpenSCAD installed on it and an idea for what kind of shape you&amp;rsquo;d like to make.
+Although our tutorial will be based around OpenSCAD, if you are already comfortable with SolidWorks you may go ahead and use that instead!</description>
+    </item>
+    
+  </channel>
+</rss>

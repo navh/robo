@@ -7,4 +7,4 @@ date: 2019-01-23T23:49:05-05:00
 
 The RMC Robotics Club is a club that does robotics at RMC.
 
-
+We meet every Monday and Tuesday at 19h00, sometimes to work on robots, sometimes to attend workshops to improve our general 'making' skills.

@@ -17,11 +17,9 @@
       <pubDate>Wed, 23 Jan 2019 23:49:39 -0500</pubDate>
       
       <guid>http://robo.segfaults.net/workshops/3d-printing/</guid>
-      <description>Captain Marasco will walk everybody through a simple example of CAD and at the end files will be submitted to be actually printed!
-When? 19:00 on Janurary 28th and 29th
-Where? Massey 7 perhaps?
-What will I need? Your own laptop with OpenSCAD installed on it and an idea for what kind of shape you&amp;rsquo;d like to make.
-Although our tutorial will be based around OpenSCAD, if you are already comfortable with SolidWorks you may go ahead and use that instead!</description>
+      <description>Goal To design and build/print a thingamajig for the Robo Club
+What? The workshop will be based around engineering design of a part (to be determined).
+Part one of the workshop will be a discussion/brainstorm session of what we are trying to build, determining specs/requirements and considerations for the design. Part two of the workshop will be a quick introduction to the 3D-printing toolchain and discussion of the use of 3D printing in engineering designs.</description>
     </item>
     
     <item>
@@ -30,7 +28,8 @@ Although our tutorial will be based around OpenSCAD, if you are already comforta
       <pubDate>Wed, 23 Jan 2019 23:49:05 -0500</pubDate>
       
       <guid>http://robo.segfaults.net/about/</guid>
-      <description>RoboClub The RMC Robotics Club is a club that does robotics at RMC.</description>
+      <description>RoboClub The RMC Robotics Club is a club that does robotics at RMC.
+We meet every Monday and Tuesday at 19h00, sometimes to work on robots, sometimes to attend workshops to improve our general &amp;lsquo;making&amp;rsquo; skills.</description>
     </item>
     
     <item>
@@ -40,6 +39,18 @@ Although our tutorial will be based around OpenSCAD, if you are already comforta
       
       <guid>http://robo.segfaults.net/contact-us/</guid>
       <description>If you are interested in participating please email s27714 at rmc dot ca</description>
+    </item>
+    
+    <item>
+      <title>First Meeting</title>
+      <link>http://robo.segfaults.net/posts/first-meeting/</link>
+      <pubDate>Mon, 21 Jan 2019 23:49:39 -0500</pubDate>
+      
+      <guid>http://robo.segfaults.net/posts/first-meeting/</guid>
+      <description>Starting Out Quick presentation about where we might be able to take the club.
+Discussion What did those present want to do with the club?
+Not a kit It was obvious that folks were more interested in following through the complete design process than simply putting together their own small robot.
+Although initially we will not have the resourses or comitment to tackle something as huge as a self driving car or small spacecraft, we plan to create a couple of smaller robots in teams.</description>
     </item>
     
   </channel>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on RMC Robo Club</title>
+    <link>http://robo.segfaults.net/posts/</link>
+    <description>Recent content in Posts on RMC Robo Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jan 2019 23:49:39 -0500</lastBuildDate>
+    
+	<atom:link href="http://robo.segfaults.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Meeting</title>
+      <link>http://robo.segfaults.net/posts/first-meeting/</link>
+      <pubDate>Mon, 21 Jan 2019 23:49:39 -0500</pubDate>
+      
+      <guid>http://robo.segfaults.net/posts/first-meeting/</guid>
+      <description>Starting Out Quick presentation about where we might be able to take the club.
+Discussion What did those present want to do with the club?
+Not a kit It was obvious that folks were more interested in following through the complete design process than simply putting together their own small robot.
+Although initially we will not have the resourses or comitment to tackle something as huge as a self driving car or small spacecraft, we plan to create a couple of smaller robots in teams.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -24,4 +24,8 @@ theme = "hyde"
     identifier = "Contact Us"
     name = "Contact Us"
     url = "/contact-us/"
+  [[menu.main]]
+    identifier = "Resources"
+    name = "Resources"
+    url = "/resources/"
 

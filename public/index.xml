@@ -6,10 +6,21 @@
     <description>Recent content on RMC Robo Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jan 2019 23:49:39 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 22:04:33 -0500</lastBuildDate>
     
 	<atom:link href="http://robo.segfaults.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3D Printing Workshop</title>
+      <link>http://robo.segfaults.net/posts/3d-printing-workshop/</link>
+      <pubDate>Tue, 29 Jan 2019 22:04:33 -0500</pubDate>
+      
+      <guid>http://robo.segfaults.net/posts/3d-printing-workshop/</guid>
+      <description>Monday Only a few people showed up who were already quite familiar with SolidWorks so we got to daydreaming about what sorts of things we could print.
+Eventually we decided that we would attempt to create a type of logo for the club in 3 dimensions.
+The logo will be a robotic version of the RMC logo, with rectangular jointed bits, a claw with grabbies, and a USB Trident sticking out of the top.</description>
+    </item>
     
     <item>
       <title>3D Printing</title>
@@ -18,6 +29,7 @@
       
       <guid>http://robo.segfaults.net/workshops/3d-printing/</guid>
       <description>Goal To design and build/print a thingamajig for the Robo Club
+The parts that have been made so far are stored in this folder
 What? The workshop will be based around engineering design of a part (to be determined).
 Part one of the workshop will be a discussion/brainstorm session of what we are trying to build, determining specs/requirements and considerations for the design. Part two of the workshop will be a quick introduction to the 3D-printing toolchain and discussion of the use of 3D printing in engineering designs.</description>
     </item>
@@ -29,7 +41,8 @@ Part one of the workshop will be a discussion/brainstorm session of what we are 
       
       <guid>http://robo.segfaults.net/about/</guid>
       <description>RoboClub The RMC Robotics Club is a club that does robotics at RMC.
-We meet every Monday and Tuesday at 19h00, sometimes to work on robots, sometimes to attend workshops to improve our general &amp;lsquo;making&amp;rsquo; skills.</description>
+We meet every Monday and Tuesday at 19h00, sometimes to work on robots, sometimes to attend workshops to improve our general &amp;lsquo;making&amp;rsquo; skills.
+Soon we hope to be hosting an internal competition to quickly learn as much as we can about the real types of decisions and considerations that must be made when building a robot with a deadline!</description>
     </item>
     
     <item>
@@ -39,6 +52,15 @@ We meet every Monday and Tuesday at 19h00, sometimes to work on robots, sometime
       
       <guid>http://robo.segfaults.net/contact-us/</guid>
       <description>If you are interested in participating please email s27714 at rmc dot ca</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://robo.segfaults.net/resources/</link>
+      <pubDate>Wed, 23 Jan 2019 23:37:16 -0500</pubDate>
+      
+      <guid>http://robo.segfaults.net/resources/</guid>
+      <description>Links Here is the Folder for the 3D Printed Arm</description>
     </item>
     
     <item>

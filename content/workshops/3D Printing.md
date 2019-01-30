@@ -7,6 +7,8 @@ date: 2019-01-23T23:49:39-05:00
 
 To design and build/print a thingamajig for the Robo Club
 
+The parts that have been made so far are stored in [this folder](https://drive.google.com/drive/folders/1p3KEBeuUeoSDM_l_yLE4DOLT9fUCriH5)
+
 ## What?
 
 The workshop will be based around engineering design of a part (to be determined).
